@@ -42,14 +42,14 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,reactnative" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,reactnative,sass" />
 </p>
 
-### ⚡ Libraries / Tools
+### ☁️ Tools & Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=jquery,swiper,sass" />
+<img src="https://skillicons.dev/icons?i=firebase,netlify,heroku,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
-
 ### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
