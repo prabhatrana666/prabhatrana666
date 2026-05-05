@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
 <h3 align="center">🚀 MERN Stack Developer | React Native | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge">
   </a>
   
   <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
 ---
 
 ## 🧠 About Me
