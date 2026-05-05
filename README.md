@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
-<h3 align="center">🚀 MERN Stack Developer | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
-
+<h3 align="center">🚀 MERN Stack Developer | React Native | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
 <p align="center">
   <a href="https://prabhatrana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"></a>
   <a href="https://www.linkedin.com/in/prabhat-rana"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
