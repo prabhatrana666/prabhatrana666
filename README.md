@@ -6,14 +6,21 @@
   </a>
   
   <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
+</a>
   
-  <a href="https://github.com/prabhatrana666" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+ <a href="https://github.com/prabhatrana666" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Follow-181717?logo=github&logoColor=fff&style=for-the-badge">
+</a>
+<a href="https://prabhatrana.netlify.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
   </a>
+
+  <a href="https://github.com/prabhatrana666" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Follow-181717?logo=github&logoColor=fff&style=for-the-badge">
+  </a>
+
 </p>
----
 
 ## 🧠 About Me
 - 💼 1+ year experience building **real-world SaaS & CRM platforms**
