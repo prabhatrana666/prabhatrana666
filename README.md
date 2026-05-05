@@ -16,10 +16,6 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
   </a>
 
-  <a href="https://github.com/prabhatrana666" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Follow-181717?logo=github&logoColor=fff&style=for-the-badge">
-  </a>
-
 </p>
 
 ## 🧠 About Me
