@@ -47,7 +47,7 @@
 
 ### ⚡ Libraries / Tools
 <p>
-<img src="https://skillicons.dev/icons?i=owlcarousel,sass" />
+<img src="https://skillicons.dev/icons?i=jquery,swiper,sass" />
 </p>
 
 ### ⚙️ Backend
