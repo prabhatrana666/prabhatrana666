@@ -42,7 +42,7 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,reactnative,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,sass" />
 </p>
 
 ### ☁️ Tools & Deployment
@@ -67,11 +67,14 @@
 ---
 
 ## ⚡ Core Skills
-- Scalable React Architecture (RTK, Context API)
-- REST API Integration & Async Data Handling  
-- Performance Optimization (Lazy Loading, Code Splitting)  
-- Real-Time Systems (WebSockets, Socket.io)  
-- Authentication & Security (JWT, OAuth, Sessions)  
+
+- Scalable Frontend Architecture using React.js (Component-based design, State Management with Redux Toolkit & Context API)
+- Advanced API Integration & Async Data Flow (REST APIs, Axios, error handling, caching strategies)
+- Real-Time Application Development (Socket.io, WebSockets, live data updates)
+- Performance Engineering (Lazy Loading, Code Splitting, Memoization, reducing render cycles, Lighthouse optimization)
+- Authentication & Secure Frontend Systems (JWT, OAuth, Session-based auth, protected routes)
+- Responsive UI/UX Development (Mobile-first design, SCSS, Bootstrap, pixel-perfect Figma to React conversion)
+- Progressive Web Apps (PWA) & Offline-first features
 
 ---
 
