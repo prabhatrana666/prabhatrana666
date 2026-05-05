@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
 <h3 align="center">🚀 MERN Stack Developer | React Native | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
 <p align="center">
-  <a href="https://prabhatrana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"></a>
-  <a href="https://www.linkedin.com/in/prabhat-rana"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/prabhatrana666"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://prabhatrana.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/prabhatrana666" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
