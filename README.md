@@ -42,7 +42,12 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,reactnative" />
+</p>
+
+### ⚡ Libraries / Tools
+<p>
+<img src="https://skillicons.dev/icons?i=owlcarousel,sass" />
 </p>
 
 ### ⚙️ Backend
@@ -81,7 +86,7 @@
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://prabhatrana.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/prabhat-rana
-- 📧 Email: your-email@example.com  
+- 📧 Email: prabhatrana2024@gmail.com  
 
 ---
 
