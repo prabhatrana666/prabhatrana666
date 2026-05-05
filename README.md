@@ -5,24 +5,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/prabhatrana666" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  
-  <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  
-  <a href="https://stackoverflow.com/users/YOUR_USER_ID/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Ask-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
-  </a>
-  
-  <a href="https://commuddle.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Commuddle-Join-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
