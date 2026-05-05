@@ -26,18 +26,6 @@
 
 ---
 
-## 🔥 Featured Project
-
-### 🌍 Travel Inquiry & Tour Management Platform
-- Built dynamic and scalable **React.js frontend** for real-world travel platform  
-- Integrated **REST APIs** for real-time data & user interactions  
-- Designed responsive UI for **B2B/B2C users**  
-- Optimized performance and improved user experience  
-
-🔗 **Live:** https://roamers.traviyo.in  
-
----
-
 ## 📦 Featured npm Package
 
 ### ⚡ prabhat-kit
