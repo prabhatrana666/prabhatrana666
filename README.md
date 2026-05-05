@@ -79,15 +79,15 @@
 ## 📊 GitHub Stats
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatrana666&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhatrana666&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatrana666&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&hide_border=true" />
 
 </p>
 
