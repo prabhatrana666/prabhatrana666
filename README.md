@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
 <h3 align="center">🚀 MERN Stack Developer | React Native | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer;MERN+Stack+Developer;React+Native+Developer;Building+Real-World+SaaS+Applications" alt="Typing SVG" />
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge">
   </a>
