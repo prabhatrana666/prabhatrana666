@@ -28,16 +28,6 @@
 
 ---
 
-## 📦 Featured npm Package
-
-### ⚡ prabhat-kit
-- Production-ready API utility with **retry, caching & timeout handling**
-- Simplifies API integration and reduces boilerplate  
-
-🔗 https://www.npmjs.com/package/prabhat-kit  
-
----
-
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
@@ -65,6 +55,18 @@
 </p>
 
 ---
+
+
+## 📦 Featured npm Package
+
+### ⚡ prabhat-kit
+- Production-ready API utility with **retry, caching & timeout handling**
+- Simplifies API integration and reduces boilerplate  
+
+🔗 https://www.npmjs.com/package/prabhat-kit  
+
+---
+
 
 ## ⚡ Core Skills
 
