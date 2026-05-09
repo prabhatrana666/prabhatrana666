@@ -99,3 +99,6 @@
 ---
 
 ⭐ *Building scalable, production-ready applications with real-world impact*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A66F7,100:38BDF8&height=100&section=footer"/>
+
