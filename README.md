@@ -1,35 +1,26 @@
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
-
-<h3 align="center">
-Frontend Engineer • MERN Stack Developer • React Native Developer
-</h3>
-
-<p align="center">
-Building scalable SaaS platforms, real-time applications, and modern user experiences.
-</p>
-
+<h3 align="center">🚀 MERN Stack Developer | React Native | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer;MERN+Stack+Developer;React+Native+Developer;Building+Real-World+SaaS+Applications" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge">
   </a>
-
+  
   <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/prabhatrana666" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
-  </a>
-
-  <a href="https://prabhatrana.netlify.app/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
+</a>
+  
+ <a href="https://github.com/prabhatrana666" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
+</a>
+<a href="https://prabhatrana.netlify.app/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
-  </a>
+</a>
 </p>
 
+tell me is this ok or make it more visually and more professionaly good like a 5 years of exp guy
 ## 🧠 About Me
 - 💼 1+ year experience building **real-world SaaS & CRM platforms**
 - ⚡ Specialized in **React.js, scalable UI architecture & API integration**
