@@ -76,7 +76,7 @@
 - Authentication Systems with JWT & OAuth
 - Responsive UI/UX, PWA & Mobile-First Development
 
-  ---
+---
 
 ## 📊 GitHub Stats
 <p align="center">
