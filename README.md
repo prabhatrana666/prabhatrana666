@@ -20,7 +20,6 @@
 </a>
 </p>
 
-tell me is this ok or make it more visually and more professionaly good like a 5 years of exp guy
 ## 🧠 About Me
 - 💼 1+ year experience building **real-world SaaS & CRM platforms**
 - ⚡ Specialized in **React.js, scalable UI architecture & API integration**
