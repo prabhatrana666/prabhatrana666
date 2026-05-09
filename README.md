@@ -9,19 +9,20 @@
 </p>
 </p>
 <p align="center">
+  <a href="https://prabhatrana.netlify.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
+</a>
   <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge">
   </a>
   
-  <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
-</a>
+
   
  <a href="https://github.com/prabhatrana666" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
 </a>
-<a href="https://prabhatrana.netlify.app/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
+  <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
 </a>
 </p>
 
