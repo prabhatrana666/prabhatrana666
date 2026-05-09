@@ -70,15 +70,13 @@
 
 ## ⚡ Core Skills
 
-- Scalable Frontend Architecture using React.js (Component-based design, State Management with Redux Toolkit & Context API)
-- Advanced API Integration & Async Data Flow (REST APIs, Axios, error handling, caching strategies)
-- Real-Time Application Development (Socket.io, WebSockets, live data updates)
-- Performance Engineering (Lazy Loading, Code Splitting, Memoization, reducing render cycles, Lighthouse optimization)
-- Authentication & Secure Frontend Systems (JWT, OAuth, Session-based auth, protected routes)
-- Responsive UI/UX Development (Mobile-first design, SCSS, Bootstrap, pixel-perfect Figma to React conversion)
-- Progressive Web Apps (PWA) & Offline-first features
+- Scalable Frontend Development with React.js & Redux Toolkit
+- REST API Integration, Async Data Handling & Performance Optimization
+- Real-Time Applications using Socket.io & WebSockets
+- Authentication Systems with JWT & OAuth
+- Responsive UI/UX, PWA & Mobile-First Development
 
----
+  ---
 
 ## 📊 GitHub Stats
 <p align="center">
