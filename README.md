@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A66F7,100:38BDF8&height=160&section=header&text=Prabhat%20Rana&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:4A66F7,100:38BDF8&height=160&section=header&text=Prabhat%20Rana&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient)"/>
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
 <h3 align="center">🚀 MERN Stack Developer | React Native | 1+ Years Experience | Building Scalable SaaS & Real-Time Applications</h3>
 <p align="center">
