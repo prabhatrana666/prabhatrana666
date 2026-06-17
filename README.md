@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Prabhat Rana</h1>
-<h3 align="center">🚀 MERN Stack Developer • React.js & React Native Developer • 1+ Year Experience • Building Scalable SaaS, Real-Time & Full-Stack Applications</h3>
+<h3 align="center">🚀 MERN Stack Developer • React.js Developer • 1+ Year Experience • Building Scalable SaaS, Real-Time & Full-Stack Applications</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer;MERN+Stack+Developer;React+Native+Developer;Building+Real-World+SaaS+Applications" alt="Typing SVG" />
 </p>
