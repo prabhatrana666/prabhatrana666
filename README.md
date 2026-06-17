@@ -64,14 +64,14 @@
 ---
 
 
-## 📦 Featured npm Package
+## 🚀 Featured Projects
 
-### ⚡ prabhat-kit
-- Production-ready API utility with **retry, caching & timeout handling**
-- Simplifies API integration and reduces boilerplate  
-
-🔗 https://www.npmjs.com/package/prabhat-kit  
-
+- SaaS Application
+- CRM Platform
+- Real-Time Chat Application
+- Travel Booking Platform
+- Admin Dashboard
+- Full-Stack MERN Project
 ---
 
 
