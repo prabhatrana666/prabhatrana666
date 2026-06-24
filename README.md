@@ -29,7 +29,7 @@
 ## 🧠 About Me
 - 💼 1+ year experience building **real-world SaaS & CRM platforms**
 - ⚡ Specialized in **React.js, scalable UI architecture & API integration**
-- 🌍 Worked on **B2B/B2C travel platforms & dynamic dashboards**
+- 🌍 Worked on **B2B/B2C travel platforms & dynamic websites**
 - 🚀 Focused on **performance optimization & clean architecture**
 
 ---
