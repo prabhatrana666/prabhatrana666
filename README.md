@@ -59,6 +59,7 @@
 <img src="https://img.shields.io/badge/bcrypt-grey?style=for-the-badge" />
 <img src="https://img.shields.io/badge/WebSockets-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge" />
 </p>
 
 ---
