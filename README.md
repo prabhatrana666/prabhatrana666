@@ -88,7 +88,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&v=2" />
 </p>
 
 ---
