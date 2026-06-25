@@ -22,7 +22,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
 </a>
   <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical">
 </a>
 </p>
 
