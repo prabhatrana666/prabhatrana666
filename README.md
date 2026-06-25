@@ -22,7 +22,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
 </a>
   <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
@@ -88,16 +88,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&v=2"
-    height="180"
-  />
-</p>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&v=2"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical"
+  alt="Top Languages"
+/>
+
 ---
 
 ## 📫 Connect With Me
