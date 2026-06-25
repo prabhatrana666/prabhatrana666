@@ -88,17 +88,19 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&v=2"
   alt="GitHub Streak"
 />
 
-<br><br>
-
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical"
   alt="Top Languages"
 />
+
+</div>
 
 ---
 
