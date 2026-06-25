@@ -91,7 +91,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&v=2" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical" />
 </p>
 ---
 
