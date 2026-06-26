@@ -39,7 +39,6 @@
 ### 🚀 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,sass,figma" />
-    <img src="https://cdn.devicons.dev/icons/pwa/pwa.svg" width="48" alt="PWA"/>
 </p>
 
 ### ☁️ Tools & Deployment
@@ -63,6 +62,12 @@
 <img src="https://img.shields.io/badge/XSS-Cross--Site%20Scripting-black?style=for-the-badge" />
 </p>
 
+### 🌐 Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/PWA-Progressive_Web_App-5A0FC8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge" />
+</p>
 ---
 
 
