@@ -39,6 +39,7 @@
 ### 🚀 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,jquery,sass,figma" />
+    <img src="https://cdn.devicons.dev/icons/pwa/pwa.svg" width="48" alt="PWA"/>
 </p>
 
 ### ☁️ Tools & Deployment
