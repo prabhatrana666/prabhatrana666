@@ -79,14 +79,17 @@
 
 ## 🚀 Featured Projects
 
-- SaaS Application
-- CRM Platform
-- Real-Time Chat Application
-- Travel Booking Platform
-- Admin Dashboard
-- Full-Stack MERN Project
----
-
+* 🚖 Cab Booking Website
+* 🏢 Business Websites
+* 🎨 Modern Landing Pages
+* ⚛️ React.js Frontend Applications
+* 📱 Progressive Web Apps (PWA)
+* 📐 Responsive & Mobile-First Websites
+* ✨ Interactive UI & Animations
+* 🌐 API-Powered Frontend Projects
+* 🚀 High-Performance Web Experiences
+  
+ ---
 
 ## ⚡ Core Skills
 
