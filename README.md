@@ -67,6 +67,10 @@
   <img src="https://img.shields.io/badge/PWA-Progressive_Web_App-5A0FC8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SEO-Friendly-brightgreen?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Performance-Optimized-red?style=for-the-badge" />
+
+
 </p>
 ---
 
