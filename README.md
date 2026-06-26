@@ -53,13 +53,14 @@
 </p>
 
 ### 🔐 Security & Real-Time
+
 <p>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/bcrypt-grey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WebSockets-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/XSS-Cross--Site%20Scripting-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth-Authorization-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/bcrypt-Password_Hashing-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-Real_Time-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.IO-Communication-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XSS-Protection-0A66C2?style=for-the-badge" />
 </p>
 
 ### 🌐 Web Technologies
