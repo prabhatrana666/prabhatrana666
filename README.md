@@ -63,14 +63,13 @@
 </p>
 
 ### 🌐 Web Technologies
+
 <p>
-  <img src="https://img.shields.io/badge/PWA-Progressive_Web_App-5A0FC8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-Integration-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/SEO-Friendly-brightgreen?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Performance-Optimized-red?style=for-the-badge" />
-
-
+  <img src="https://img.shields.io/badge/PWA-Progressive_Web_App-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-Integration-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive-Web_Design-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cross_Browser-Compatibility-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Performance-Optimization-0A66C2?style=for-the-badge" />
 </p>
 ---
 
