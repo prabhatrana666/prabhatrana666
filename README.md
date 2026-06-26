@@ -79,16 +79,16 @@
 
 ## 🚀 Featured Projects
 
-* 🚖 Cab Booking Website
-* 🏢 Business Websites
+* 🚖 Cab Booking Platform (Web & PWA)
+* 📱 Android Mobile Application
+* 🏢 Business & Corporate Websites
 * 🎨 Modern Landing Pages
 * ⚛️ React.js Frontend Applications
-* 📱 Progressive Web Apps (PWA)
-* 📐 Responsive & Mobile-First Websites
-* ✨ Interactive UI & Animations
-* 🌐 API-Powered Frontend Projects
-* 🚀 High-Performance Web Experiences
-  
+* 📐 Responsive & Mobile-First Web Design
+* ✨ Interactive UI with Framer Motion
+* 🌐 API-Integrated Frontend Projects
+* 🚀 Performance-Optimized Web Experiences
+
  ---
 
 ## ⚡ Core Skills
