@@ -109,9 +109,8 @@
   src="https://streak-stats.demolab.com?user=prabhatrana666&theme=radical&hide_border=true&v=20260630"
   alt="GitHub Streak"
 />
-
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrana666&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
   alt="Top Languages"
 />
 
