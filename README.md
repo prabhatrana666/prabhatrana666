@@ -21,7 +21,7 @@
  <a href="https://github.com/prabhatrana666" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
 </a>
-  <a href="mailto:prabhatrana2024@gmail.com" target="_blank">
+  <a href="mailto:prabhatrana.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
