@@ -117,7 +117,7 @@
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://prabhatrana.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/prabhat-rana
-- 📧 Email: prabhatrana2024@gmail.com  
+- 📧 Email: prabhatrana.dev@gmail.com  
 
 ---
 
