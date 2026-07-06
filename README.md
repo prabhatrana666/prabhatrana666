@@ -106,7 +106,7 @@
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=prabhatrana666&theme=radical&hide_border=true&v=20260630"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatrana666&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 
