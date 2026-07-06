@@ -105,11 +105,10 @@
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=prabhatrana666&theme=radical&hide_border=true&v=20260630"
-  alt="GitHub Streak"
-/>
-<p>
+  <img
+    src="https://streak-stats.demolab.com?user=prabhatrana666&theme=radical&hide_border=true&v=20260630"
+    alt="GitHub Streak"
+  />
 
 </div>
 
