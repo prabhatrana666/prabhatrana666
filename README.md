@@ -104,7 +104,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabhatrana666&theme=radical&hide_border=true)](https://git.io/streak-stats)
+ <img src="https://streak-stats.demolab.com/?user=prabhatrana666&theme=radical&hide_border=true" />
 
 </div>
 
