@@ -9,7 +9,7 @@
 </p>
 </p>
 <p align="center">
-  <a href="https://prabhatrana.netlify.app/" target="_blank">
+  <a href="https://prabhatrana.online/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
 </a>
   <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
@@ -111,7 +111,7 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://prabhatrana.netlify.app/
+- 🌐 Portfolio: https://prabhatrana.online/
 - 💼 LinkedIn: https://www.linkedin.com/in/prabhat-rana
 - 📧 Email: prabhatrana.dev@gmail.com  
 
