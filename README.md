@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/WebSockets-Real_Time-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Socket.IO-Communication-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XSS-Protection-0A66C2?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Google_Search_Console-GSC-0A66C2?style=for-the-badge" />
+
 
 </p>
 
@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Web_Performance-Optimization-0A66C2?style=for-the-badge" />
     <img src="https://img.shields.io/badge/SEO-Technical_SEO-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_Tag_Manager-GTM-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Google_Search_Console-GSC-0A66C2?style=for-the-badge" />
 </p>
 
 
