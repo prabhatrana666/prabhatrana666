@@ -49,7 +49,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql, firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### 🔐 Security & Real-Time
