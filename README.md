@@ -101,6 +101,7 @@
 
 - Scalable Frontend Development with React.js & Redux Toolkit
 - REST API Integration, Async Data Handling & Performance Optimization
+- Payment Gateway Integration with Razorpay
 - Real-Time Applications using Socket.io & WebSockets
 - Authentication Systems with JWT & OAuth
 - Responsive UI/UX, PWA & Mobile-First Development
