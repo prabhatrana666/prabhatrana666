@@ -119,6 +119,7 @@
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://prabhatrana.online/
+- 📱 Android App: https://play.google.com/store/apps/details?id=com.prabhatrana.portfolio
 - 💼 LinkedIn: https://www.linkedin.com/in/prabhat-rana
 - 📧 Email: prabhatrana.dev@gmail.com  
 
