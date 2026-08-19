@@ -12,6 +12,9 @@
   <a href="https://prabhatrana.online/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-4CAF50?logo=vercel&logoColor=fff&style=for-the-badge">
 </a>
+  <a href="https://play.google.com/store/apps/details?id=com.prabhatrana.portfolio" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Android%20App-34A853?logo=android&logoColor=fff&style=for-the-badge" alt="Android App">
+</a>
   <a href="https://www.linkedin.com/in/prabhat-rana" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge">
   </a>
@@ -24,9 +27,7 @@
   <a href="mailto:prabhatrana.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.prabhatrana.portfolio" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/Android%20App-34A853?logo=android&logoColor=fff&style=for-the-badge" alt="Android App">
-</a>
+
 </p>
 
 ## 🧠 About Me
