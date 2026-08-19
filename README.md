@@ -86,15 +86,14 @@
 
 ## 🚀 Featured Projects
 
-* 🚖 Cab Booking Platform (Web & PWA)
-* 📱 Android Mobile Application
-* 🏢 Business & Corporate Websites
-* 🎨 Modern Landing Pages
-* ⚛️ React.js Frontend Applications
-* 📐 Responsive & Mobile-First Web Design
-* ✨ Interactive UI with Framer Motion
-* 🌐 API-Integrated Frontend Projects
-* 🚀 Performance-Optimized Web Experiences
+* 🚖 **Cab Booking Platform** — Web, PWA & responsive booking experience
+* 📱 **Android Mobile Application** — React Native mobile application
+* 🏢 **Business & Corporate Websites** — Modern, responsive web solutions
+* ⚛️ **React.js Applications** — Scalable frontend applications with reusable components
+* 🌐 **API-Integrated Applications** — REST API, authentication & third-party integrations
+* 🎨 **Modern Landing Pages** — Pixel-perfect, responsive UI implementations
+* ✨ **Interactive Web Experiences** — Framer Motion animations & modern UI
+* 🚀 **Performance-Optimized Applications** — Fast, scalable & mobile-first experiences
 
  ---
 
