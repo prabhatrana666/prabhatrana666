@@ -27,11 +27,12 @@
 </p>
 
 ## 🧠 About Me
-- 💼 1+ year experience building **real-world SaaS & CRM platforms**
-- ⚛️ Built scalable **React.js** applications and **Progressive Web Apps (PWAs)**
-- 🔗 Integrated **REST APIs, authentication, and third-party services**
-- 🌍 Worked on **B2B/B2C travel platforms & dynamic websites**
-- 🚀 Focused on **reusable components**, **performance optimization**, and **clean architecture**
+- 💼 1+ year of experience building **real-world SaaS, CRM & business applications**
+- ⚛️ Experienced in **React.js, React Native & MERN Stack** development
+- 📱 Built **cross-platform mobile applications** and **Progressive Web Apps (PWAs)**
+- 🔗 Integrated **REST APIs, authentication, databases & third-party services**
+- 🌍 Worked on **B2B/B2C travel platforms & dynamic web applications**
+- 🚀 Focused on **reusable components, performance optimization & clean architecture**
 
 ---
 
